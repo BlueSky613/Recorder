@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754051757048",
+    "project_id": "u-kar-abc9d",
+    "storage_bucket": "softwaredev"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754051757048:android:8f25f77bc6187e31511c0d",
+        "android_client_info": {
+          "package_name": "com.example.indrecorder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChLH6Zn9477J6z3Cp8GJgpoeBdSvirITM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
